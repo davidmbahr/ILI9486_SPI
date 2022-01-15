@@ -1,0 +1,10 @@
+nodemcu esp-12e these libraries are fully funcional on ili9486 with 4" tft lcd with touch "purchased from amazon".
+vcc 5v
+gnd g
+cs D8
+rest D4
+dc D3
+mosi D7
+sck D5
+led 3v
+miso optional   miso /D6
